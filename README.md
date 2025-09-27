@@ -1,0 +1,1 @@
+Simple game where a number is generated and the user is asked to keep guessing values until the number is found..
