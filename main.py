@@ -13,3 +13,6 @@ while True:
             print("Higher")
         if choice > number:
             print("Lower")
+
+
+print("HI")
